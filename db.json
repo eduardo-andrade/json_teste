@@ -1,4 +1,5 @@
-{	"cols": [
+{	
+	"cols": [
 		"id"
 		"email_user",
 		"password_user",
