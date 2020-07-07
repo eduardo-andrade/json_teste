@@ -1,10 +1,4 @@
 {
-	"cols": [
-		"id",
-		"email",
-		"password"
-	],
-	"data": [
 		[
 			1,
 			"nisi@necorci.co.uk",
@@ -45,5 +39,4 @@
 			"lacinia@est.co.uk",
 			"PYA13KAZ8XY"
 		]
-    ]
 }
