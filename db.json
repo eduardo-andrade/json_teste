@@ -1,27 +1,34 @@
-[
-	{
-		"id": 1,
-		"email": "pede.Praesent@ipsumdolor.com",
-		"password": "SCP81ZGW1TE"
-	},
-	{
-		"id": 2,
-		"email": "enim.Sed@lobortis.org",
-		"password": "HEQ14ZEX4BU"
-	},
-	{
-		"id": 3,
-		"email": "luctus@iaculisaliquet.net",
-		"password": "INQ61VJC5QQ"
-	},
-	{
-		"id": 4,
-		"email": "non.enim@etmagnis.ca",
-		"password": "DSS16MRH5FB"
-	},
-	{
-		"id": 5,
-		"email": "sollicitudin.commodo@Maecenas.edu",
-		"password": "LZX07OPN5WX"
-	}
-]
+{
+	"cols": [
+		"id",
+		"email",
+		"password"
+	],
+	"data": [
+		[
+			1,
+			"adipiscing@quamvelsapien.edu",
+			"YBJ63FBR9GB"
+		],
+		[
+			2,
+			"egestas@elementum.net",
+			"BWM53FPL3KZ"
+		],
+		[
+			3,
+			"commodo@mi.com",
+			"NZB54HCP7MV"
+		],
+		[
+			4,
+			"ullamcorper@atnisium.co.uk",
+			"GDI82LOV5NU"
+		],
+		[
+			5,
+			"risus@scelerisquemollis.net",
+			"IAN75ZAR5VM"
+		]
+	]
+}
