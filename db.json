@@ -1,9 +1,4 @@
 {
-	"cols": [
-		"email_user",
-		"password_user",
-		"admin_user"
-	],
 	"data": [
 		[
 			"vestibulum@etlacinia.org",
