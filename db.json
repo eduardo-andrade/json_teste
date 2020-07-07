@@ -1,32 +1,24 @@
 {
-	"cols": [
-		"email_user",
-		"password_user"
-	],
-	"data": [
-		[
-			"ornare.lectus.ante@sitamet.com",
-			"PVR70EQE4YZ"
-		],
-		[
-			"non.leo@liberoat.net",
-			"XJF74HVF8VC"
-		],
-		[
-			"ipsum@dictumPhasellusin.co.uk",
-			"PRW53QYL6LH"
-		],
-		[
-			"amet.risus.Donec@actellus.co.uk",
-			"DNR18MUV9KG"
-		],
-		[
-			"augue@nonantebibendum.ca",
-			"FMU48WDQ2XQ"
-		],
-		[
-			"lorem.ut@luctusCurabituregestas.net",
-			"BLE08PCH1LN"
-		]
-	]
+    "adminregion": {
+        "id": "",
+        "value": ""
+    },
+    "capitalCity": "Berlin",
+    "id": "DEU",
+    "incomeLevel": {
+        "id": "HIC",
+        "value": "High income"
+    },
+    "iso2Code": "DE",
+    "latitude": "52.5235",
+    "lendingType": {
+        "id": "LNX",
+        "value": "Not classified"
+    },
+    "longitude": "13.4115",
+    "name": "Germany",
+    "region": {
+        "id": "ECS",
+        "value": "Europe & Central Asia"
+    }
 }
