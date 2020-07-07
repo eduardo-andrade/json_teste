@@ -1,64 +1,32 @@
-{
-	"cols": [
-		"id",
-		"email_user",
-		"password_user",
-		"admin_user"
-	],
-	"data": [
-		[
-			NULL,
-			"penatibus@vulputaterisusa.net",
-			"YPR42GRY5YW",
-			NULL
-		],
-		[
-			NULL,
-			"fames@eget.ca",
-			"NRJ59BSV2KL",
-			NULL
-		],
-		[
-			NULL,
-			"non@loremvitaeodio.edu",
-			"IZQ13NHT8JX",
-			NULL
-		],
-		[
-			5,
-			"tempus@Donecnon.org",
-			"UKK01EST0FB",
-			"False"
-		],
-		[
-			NULL,
-			"volutpatnunc@eu.edu",
-			"DPJ39MGP5YO",
-			NULL
-		],
-		[
-			NULL,
-			"malesuada@facilisisnon.org",
-			"GHV62VJR7XA",
-			NULL
-		],
-		[
-			NULL,
-			"pede@aliquam.com",
-			"KYN99ZMW5PR",
-			NULL
-		],
-		[
-			NULL,
-			"cursus@accumsanlaoreet.edu",
-			"JKS25LIG4TO",
-			NULL
-		],
-		[
-			NULL,
-			"semut@eu.com",
-			"ITC03YZN6GJ",
-			NULL
-		]
+
+	[
+	{
+		"email_user": "mi.lorem.vehicula@faucibus.co.uk",
+		"password_user": "WOD49ZXF8XP"
+	},
+	{
+		"email_user": "ultrices@malesuada.org",
+		"password_user": "EBT95DCX4JO"
+	},
+	{
+		"email_user": "Phasellus@Vestibulumanteipsum.com",
+		"password_user": "BAO58YVY2YR"
+	},
+	{
+		"email_user": "nunc.id.enim@ProindolorNulla.org",
+		"password_user": "TVV93KGF3UO"
+	},
+	{
+		"email_user": "venenatis.a.magna@scelerisque.org",
+		"password_user": "ONA00DLA0WL"
+	},
+	{
+		"email_user": "ac.urna@SeddictumProin.ca",
+		"password_user": "WPB10SVF8ZG"
+	},
+	{
+		"email_user": "urna.et@mattis.com",
+		"password_user": "ORZ20LXJ0EL"
+	},
 	]
-}
+
