@@ -1,4 +1,9 @@
-{
+{	"cols": [
+		"id"
+		"email_user",
+		"password_user",
+		"admin_user",
+	],
 	"data": [
 		[	
 			2,
