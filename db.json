@@ -3,19 +3,16 @@
         "id": "",
         "value": ""
     },
-    "capitalCity": "Berlin",
     "id": "DEU",
     "incomeLevel": {
         "id": "HIC",
         "value": "High income"
     },
-    "iso2Code": "DE",
     "latitude": "52.5235",
     "lendingType": {
         "id": "LNX",
         "value": "Not classified"
     },
-    "longitude": "13.4115",
     "name": "Germany",
     "region": {
         "id": "ECS",
